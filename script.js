@@ -1,8 +1,7 @@
 function descargarContacto() {
     const vcardData = `BEGIN:VCARD
 VERSION:3.0
-N:Hurtado;Adriana;;;
-FN:Adriana Hurtado
+FN:Ventas Caldas Cervalle
 TEL:+57 3118814834
 EMAIL;TYPE=WORK: ventascaldas@cervalle.com
 END:VCARD`;
